@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.notice-container h3{
+		margin: 0;
+	    display: inline-block;
+	    font-size: 20px;
+	    font-weight: 600;
+	    color: #b61028;
+		
+	}
+	
+pre{
+	font-family: sans-serif;
+}

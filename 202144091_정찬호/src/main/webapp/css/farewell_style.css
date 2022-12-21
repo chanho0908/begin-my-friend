@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+
+.legend{
+	background-image: url("../image/eulyoungTa.jpg");
+	width:700px;
+	height:900px;
+}
+
+
+.join{
+	
+	position: absolute;
+	width: 110px;
+	height: 62px;
+	top: 20px;
+	right: 10px;
+	font-size: 20px;
+	cursor: pointer;
+	
+	}
+.home{
+	font-size: 20px;
+	position: absolute;
+	width: 110px;
+	height: 62px;
+	top: 20px;
+	right: 110px;
+	cursor: pointer;
+}
+	

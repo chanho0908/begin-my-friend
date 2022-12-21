@@ -1,0 +1,155 @@
+@charset "UTF-8";
+
+.top-container{
+		position:absolute;
+		top:0;
+		left:400px;
+		margin : 0;
+		background-image: url("https://images.france.fr/zeaejvyq9bhj/1ghnNml14x9ld9ArjWOnzd/cd079f569a881dc12d682b262c6a4544/___master1305__GettyImages.jpg?w=1120&h=490&q=70&fm=webp&fit=fill");
+		background-size: cover;
+		width:1000px;
+		height:480px;	
+		cursor: pointer;
+  }
+  	
+.login {
+	position: absolute;
+	width: 102px;
+	height: 44px;
+	top: 5px;
+	right: -10px;
+	color: rgb(254, 249, 249);
+	font-family: Inter;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 44px;
+	letter-spacing: 0px;
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.join{
+	/* 로그인 */
+	position: absolute;
+	width: 102px;
+	height: 44px;
+	top: 5px;
+	right: 100px;
+	color: rgb(254, 249, 249);
+	font-family: Inter;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 44px;
+	letter-spacing: 0px;
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+			
+.left-container{
+	position: absolute;
+	width: 330px;
+	height: 550px;
+	top: 0px;
+	left: 70px;
+	background: #000000;	
+}
+			
+			
+.left-logo{
+	position: absolute;
+	width: 200px;
+	height: 110px;
+	top: 20px;
+	left: 120px;
+	color: rgb(255, 255, 255);
+	font-family: Inter;
+	font-size:40px;
+	font-weight: 800;
+	line-height: 44px;
+	letter-spacing: 0px;
+	text-align: left;
+}
+		
+.info{
+	position: absolute;
+	width: 102px;
+	height: 44px;
+	top: 5px;
+	right: 70px;
+	color: rgb(254, 249, 249);
+	font-family: Inter;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 44px;
+	letter-spacing: 0px;
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+	
+.map_container{
+	position:absolute;
+	left:70px;
+	top:530px;
+	background: #ffffff;
+	border: 2px solid #eeeeee;
+	border-radius: 9px;
+	width:220px;
+	height: 320px;
+}
+
+.main_title{
+	position: absolute;
+	top: 480px;
+	left:400px;
+    height: 45px;
+    line-height: 45px;
+    border-bottom: 1px solid #dcdcdc;
+    padding-left: 25px;
+    font-weight:bold;
+    margin-top: 5px;
+}
+
+.sub_title{
+	position: absolute;
+	top: 485px;
+	left:580px;
+    height: 45px;
+    width:820px;
+    line-height: 45px;
+    border-right: 1px solid #dcdcdc;
+    border-bottom: 1px solid #dcdcdc;
+    padding-left: 25px;
+    color: #666666;
+ 
+}
+
+.cardView-container{
+	position: absolute;
+	top:500px;
+	left:420px;
+}
+
+a:link{
+	color: white;
+	text-decoration: none;
+}
+
+a:visited{
+	color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	color: white;
+	text-decoration: none;
+}
+
+a:active{
+	color: white;
+}

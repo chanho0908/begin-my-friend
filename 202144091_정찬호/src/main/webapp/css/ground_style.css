@@ -1,0 +1,296 @@
+@charset "UTF-8";
+
+.info {
+	position: absolute;
+	width: 102px;
+	height: 44px;
+	top: 15px;
+	right: 120px;
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: bold;
+	letter-spacing: 0px;
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	cursor: pointer;
+}
+
+   	
+.login {
+	position: absolute;
+	width: 102px;
+	height: 44px;
+	top: 15px;
+	right: 10px;
+	color: #ffffff;
+	font-family: Inter;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 44px;
+	letter-spacing: 0px;
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	cursor: pointer;
+}
+
+.logout {
+	position: absolute;
+	width: 102px;
+	height: 44px;
+	top: 15px;
+	right: 30px;
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: bold;
+	letter-spacing: 0px;
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	cursor: pointer;
+}
+
+
+.join{
+	position: absolute;
+	width: 102px;
+	height: 44px;
+	top: 15px;
+	right: 120px;
+	color: #ffffff;
+	font-family: Inter;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 44px;
+	letter-spacing: 0px;
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	cursor: pointer;
+}
+			
+.top-container{
+	position: absolute;
+ 	width: 1230px; 
+	height: 80px;
+	top: 0px;
+	left: 200px;
+	background: #000000;	
+}
+			
+			
+.left-logo{
+	position: absolute;
+	width: 220px;
+	height: 80px;
+	top: 10px;
+	left: 120px;
+	color: rgb(255, 255, 255);
+	font-family: Inter;
+	font-size:20px;
+	font-weight: 800;
+	line-height: 44px;
+	letter-spacing: 0px;
+	text-align: left;
+}
+
+#map{
+	position:absolute;
+	left:15px;
+	top:160px;
+	background: #000000;
+	border: 10px solid #eeeeee;
+	border-radius: 9px;
+	width:340px;
+	height: 280px;
+}
+
+.image_container{
+	position: absolute;
+	top: 90px;
+	left: 510px;
+	width: 900px;
+	height: 470px;
+	padding:0px;
+	margin:0px;
+}
+
+.left-container {
+	position: fixed;
+	overflow: auto;
+	top:0;
+	left:120px;
+	width:385px;
+	height:1000px;
+	background-color: #002a46;
+}
+
+.mapTitle{
+	position: absolute;
+	top: 70px;
+	padding: 25px 0 0 25px; 
+	color:#ffffff;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: #000066;
+	width:100%;
+	height:50px;
+}
+
+.reserve-container{
+	position:absolute;
+	top:600px;
+	left:530px;
+	width:900px;
+	height:600px;
+	background-color: #ffffff;
+
+}
+
+.main_notice_container{
+	position:absolute;
+	top: 1250px;
+	left:550px;
+	width:900px;
+	height:850px;
+}
+
+.rule_container{
+	position:absolute;
+	top: 2200px;
+	left:530px;
+	width:900px;
+	height:850px;
+}
+
+a:link{
+	color: white;
+	text-decoration: none;
+}
+
+a:visited{
+	color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	color: white;
+	text-decoration: none;
+}
+
+a:active{
+	color: white;
+	text-decoration: none;
+}
+
+	h1{
+		margin-top: 20px;
+    	margin-bottom: 20px;
+    	color:#292929;
+	}
+	h3{
+		margin: 0; 
+		font-size: 30px; 
+		display: inline-block;
+	}	
+		
+	h4{
+		font-size: 14px;
+		padding-left: 30px;
+		display: block;
+	    margin-block-start: 1.33em;
+	    margin-block-end: 1.33em;
+	    margin-inline-start: 0px;
+	    margin-inline-end: 0px;
+	    font-weight: 600;
+	    margin: 0;
+		padding-top: 10px;
+	}
+		
+	h2, h3, h4 {
+    	line-height: 1.1;
+    	color: inherit;
+	}	
+		
+	.infoContaier{
+		display: inline-block;
+		width:865px;
+		height:200px;
+	}	
+	.infoBodyLeft{
+		width:450px;
+		height: 200px;
+	}
+	
+	.sizeContainer{
+		margin: 50px 0 0 40px; 
+	}
+	
+	.infoBodyRight{
+		position: absolute;
+		top: 50px;
+		right:20px;
+		display: grid;
+	    grid-template-columns: 120px 120px 120px;
+	    grid-template-rows: 120px 120px;
+	}
+	
+	.svc1{
+		margin:0;
+		width:100px;
+		height:100px;
+	}
+	
+	.svc2{
+		margin:0;
+		width:100px;
+		height:100px;
+	}
+	
+	.possibleDate{
+		text-align: left;
+    	font-weight: 700;
+    	font-size: 15px;
+	}
+	
+	.timeSelectContainer{
+		position: absolute;
+		top:350px;
+		left:40px;
+	}
+	
+	select {
+		width: 170px; 
+		padding: .8em .5em; 
+		border: 1px solid #999;
+		font-family: inherit;  
+		background: url('arrow.jpg') no-repeat 95% 50%; 
+		border-radius: 0px; 
+		-webkit-appearance: none; 
+		-moz-appearance: none;
+		appearance: none;
+		margin-top: 20px;
+	}
+
+select::-ms-expand {
+        display: none;
+}
+
+#showBtn{
+		    margin: 20px 0 0 0;
+		    float: left;
+		    width: 100%;
+		    height: 40px;
+		    font-weight: 700;
+		    border-radius: 0;
+		    text-align: center;
+		    border: 0;
+		    background-color: #ff5e4e;
+		    font-size: 15px;
+		    color: #ffffff;
+		}
