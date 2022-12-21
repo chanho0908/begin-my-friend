@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+@font-face { font-family: 'binggrae-Bold'; src:url("../fonts/Binggrae-Bold.woff") format('woff');}
+	body { background-image: url('../images/addFriend_image.jpeg') }
+	
+	.addfriend {
+		text-align: center;
+		margin-top:30px;
+		font-family: binggrae-Bold;
+		font-size: 30px;
+		color: #fff;
+	}
+	button{ 
+		font-size:17px;
+		font-family: binggrae-Bold; 
+		cursor: pointer;
+		border: 0px;
+		background-color:transparent;
+	}
+	
+	.btn_container { 
+		display: flex;
+		align-content: center;
+		justify-content: center;
+		margin: 10px 0 0 0;
+	}
+
+	.msgBtn{ margin-left: 15px; }

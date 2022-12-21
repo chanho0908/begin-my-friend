@@ -1,0 +1,131 @@
+@charset "UTF-8";
+@font-face { font-family: 'binggrae-Bold'; src:url("../fonts/Binggrae-Bold.woff") format('woff');}
+
+	.menu_list{
+		list-style-type: none;
+		background-color: tomato;
+		width: 15%;
+		padding: 0;
+		margin:  0;
+		left:0;
+		top:0;
+		position: fixed;
+		height: 100%;
+		overflow: auto;
+		
+	}
+	
+	.menu_list > li{
+		margin-top: 23px; 
+		font-size:23px;
+		font-weight: 500;
+	} 
+	
+	.info{
+		position: absolute;
+		top:150px;
+		left:35px;
+		font-weight: bold;
+		font-family: "binggrae-Bold";  font-size: 27px; color:rgb(254, 249, 235);
+	}
+	
+	.petinfo{
+		position: absolute;
+		top:200px;
+		left:35px;
+		font-weight: bold;
+		font-family: "binggrae-Bold";  font-size: 27px; color:rgb(254, 249, 235);
+	}
+	
+	.reserve{
+		position: absolute;
+		top:230px;
+		left:35px;
+		margin: 20px 0 0 0;
+		font-weight: bold;
+		font-family: "binggrae-Bold";  font-size: 27px; color:rgb(254, 249, 235);
+	}
+	
+	.friendlist{
+		position: absolute;
+		top:260px;
+		left:35px;
+		margin: 40px 0 0 0;
+		font-weight: bold;
+		font-family: "binggrae-Bold";  font-size: 27px; color:rgb(254, 249, 235);
+	}
+	
+	.bmList{
+		position: absolute;
+		top:310px;
+		left:35px;
+		margin: 40px 0 0 0;
+		font-weight: bold;
+		font-family: "binggrae-Bold";  font-size: 27px; color:rgb(254, 249, 235);
+	}
+	
+	.title{ margin:0 0 0 20px; }
+	
+	.homeBtn{
+		position: absolute;
+		width: 200px;
+		height: 110px;
+		top: 270px;
+		left: 20px;
+		color: rgb(255, 255, 255);
+		font-family: Inter;
+		font-size: 18px;
+		font-weight: 800;
+		line-height: 44px;
+		letter-spacing: 0px;
+		text-align: left;
+	}
+	
+	.title-container{
+		/* Rectangle 2 */
+		position: absolute;
+		width: 85%;
+		height: 110px;
+		top: 128px;
+		left: 230px;
+		background: rgb(255, 254, 254);
+		border: 10px solid rgba(0, 0, 0, 0.2);
+		border-right: 0;
+		border-left: 0;
+	}
+	
+	.info-container{
+		position: absolute;
+		top: 150px;
+		left: 550px;
+		
+	}
+	
+	.info_table{
+		font-size:17px;
+		width:500px;
+		height:250px;
+		border-collapse: collapse;
+		boder-top: 10px solid black;
+		boder-bottom: 0;
+		border-right: 0;
+		border-left: 0;
+		text-align: center;
+	}
+	.noPet_alert{
+		position: absolute;
+		top:400px;
+		left:630px;
+		width:435px;
+	}
+	
+	button{
+		width: 300px;
+		height:100px;
+		border:none;
+		border-radius: 10px;
+		background-color: #ccc;
+		font-family: "binggrae-Bold";  font-size: 27px; color:#fff;
+		margin-left: 70px;
+		cursor: pointer;
+	}

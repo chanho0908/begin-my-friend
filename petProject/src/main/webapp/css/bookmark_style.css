@@ -1,0 +1,139 @@
+@charset "UTF-8";
+@font-face { font-family: 'binggrae-Bold'; src:url("../fonts/Binggrae-Bold.woff") format('woff');}
+	
+.navbar{ height: 120px !important; }
+
+.menu_list{
+	list-style-type: none;
+	background-color: tomato;
+	width: 15%;
+	padding: 0;
+	margin:  0;
+	left:0;
+	top:0;
+	position: fixed;
+	height: 100%;
+	overflow: auto;
+}
+
+.menu_list > li{
+	margin-top: 23px; 
+	font-size:23px;
+	font-weight: 500;
+} 
+
+.info{
+	position: absolute;
+	top:150px;
+	left:35px;
+	font-weight: bold;
+	font-family: "binggrae-Bold";  font-size: 27px; color:rgb(254, 249, 235);
+}
+
+.petinfo{
+	position: absolute;
+	top:200px;
+	left:35px;
+	font-weight: bold;
+	font-family: "binggrae-Bold";  font-size: 27px; color:rgb(254, 249, 235);
+}
+
+.reserve{
+	position: absolute;
+	top:230px;
+	left:35px;
+	margin: 20px 0 0 0;
+	font-weight: bold;
+	font-family: "binggrae-Bold";  font-size: 27px; color:rgb(254, 249, 235);
+}
+
+.friendlist{
+	position: absolute;
+	top:260px;
+	left:35px;
+	margin: 40px 0 0 0;
+	font-weight: bold;
+	font-family: "binggrae-Bold";  font-size: 27px; color:rgb(254, 249, 235);
+}
+
+.bmList{
+	position: absolute;
+	top:310px;
+	left:35px;
+	margin: 40px 0 0 0;
+	font-weight: bold;
+	font-family: "binggrae-Bold";  font-size: 27px; color:rgb(254, 249, 235);
+}
+
+.title{ margin:0 0 0 20px; }
+
+.homeBtn{
+	position: absolute;
+	width: 200px;
+	height: 110px;
+	top: 270px;
+	left: 20px;
+	color: rgb(255, 255, 255);
+	font-family: Inter;
+	font-size: 18px;
+	font-weight: 800;
+	line-height: 44px;
+	letter-spacing: 0px;
+	text-align: left;
+}
+
+.title-container{
+	/* Rectangle 2 */
+	position: absolute;
+	width: 85%;
+	height: 110px;
+	top: 115px;
+	left: 230px;
+	background: rgb(255, 254, 254);
+	border: 10px solid #FFD2D2;
+	border-right: 0;
+	border-left: 0;
+}
+
+.info-container{
+	position: absolute;
+	top: 150px;
+	left: 460px;
+	
+}
+
+[type=submit]{
+	float:right;
+	width:80px;
+	height:35px;
+	border:3px solid #ccc;
+	border-radius: 5px;
+}
+
+.card-body{
+	margin: 15px 20px 0 0px;
+	padding:0px;
+}
+		
+a:link{
+	color: white;
+	text-decoration: none;
+}
+
+a:visited{
+	color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	color: white;
+	text-decoration: none;
+}
+
+a:active{
+	color: white;
+}
+
+
+
+

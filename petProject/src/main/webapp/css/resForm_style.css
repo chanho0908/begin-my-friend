@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+@font-face { font-family: 'binggrae-Bold'; src:url("../fonts/Binggrae-Bold.woff") format('woff');}
+	.title{
+		text-align: center;
+		font-size: 25px;
+		color:#6a6a6a;
+		padding-bottom:15px;
+		border-bottom: 1px solid #ccc;
+		font-family: binggrae-Bold;
+	}
+	
+	.showBtn{
+		display: flex;
+		align-content:center;
+		justify-content: center;
+	}
+	
+	#alterForm{
+		
+		align-content:center;
+		justify-content: center;
+	}	
+	
+	.btnContainer{
+		display:flex;
+		align-content:center;
+		justify-content: center;
+		margin-top: 20px;
+	}
+	
+	.delBtn{
+		font-weight: 500;
+		font-size: 25px;
+	}
+	
+	.nameContainer{
+		font-size: 15px;
+		font-family: binggrae-Bold;
+	}
+	
+	.shopName{
+		border: 1px solid black;
+		border-top: 0px;
+		border-right: 0px;
+		border-left: 0px;
+	}
+	
+	input[type="text" i]{
+	width:185px;
+	margin-right: 20px;
+	border-radius: 5px;
+	font-weight: 600;
+}

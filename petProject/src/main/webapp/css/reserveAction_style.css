@@ -1,0 +1,15 @@
+@charset "UTF-8";
+@font-face { font-family: 'binggrae-Bold'; src:url("../fonts/Binggrae-Bold.woff") format('woff');}
+body{
+	background-image: url('../images/res_image.jpg');
+}
+.t1{
+	font-size: 20px;
+	text-align: center;
+	font-family: binggrae-Bold;
+	margin-top: 20px;
+}
+.t2{
+	text-align: center;
+	font-family: binggrae-Bold;
+}

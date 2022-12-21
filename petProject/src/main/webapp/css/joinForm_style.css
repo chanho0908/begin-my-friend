@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body{		
+		background-image: url("../images/container_image.jpg");
+		width: 1000px;
+	    height: 700px;
+	    color: #fff;
+	    background-attachment: scroll;
+	    background-position: center center;
+	    background-repeat: no-repeat;
+	}
+	
+
+	.container{
+		background-color: #6bd3f7;/* 까만색(0,0,0) */
+    	opacity:0.8; /* 20% 불투명도 */
+		width:500px;
+		border-radius: 20px;
+	}
+	
+	.title{
+		color: white;
+		font-size: 25px;
+		text-align: center;
+		margin-top: 10px;
+		font-weight: 800;
+	}
+	
+	.container{
+		position: absolute;
+		top:40px;
+		left:530px;
+		width:500px;
+		height:80%;
+	}
+	
+	table{
+		text-align: center; 
+		color: #ffffff;
+		margin-top: 20px;
+	}
+	
+	input{
+		border: 1px solid black;
+		border-radius: 50px;
+	}

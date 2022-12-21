@@ -1,0 +1,62 @@
+@charset "UTF-8";
+.card_title{ color:black; }
+.card_container{
+	position: absolute;
+	top:50px;
+	left:460px;
+}
+.back_btn{
+	width:32px;
+	height:32px;
+	background-image: url('../images/icons/icon-backBtn.png');
+}
+.left-container{
+		position: fixed;
+		width: 420px;
+		height: 100%;
+		top: 0px;
+		left: 0px;
+		background: #ffdb4b;	
+		padding:10px;
+	}
+	
+	.map_container{
+		position: absolute;
+		width: 380px;
+		height: 320px;
+		background-color: #fff;
+		border-radius: 20px; 
+		top:180px;
+	}
+	
+	.left_title{
+		position: absolute;
+		top:110px;
+		left:20px;
+	}
+	
+	.inner-title{
+		font-size: 30px;
+		font-weight: 600;
+		
+	}
+
+a:hover {
+	text-decoration: none;
+	color: fff;
+}
+
+a:link {
+	text-decoration: none;
+	color: fff;
+}
+
+a:visited {
+	text-decoration: none;
+	color: fff;
+}
+
+a:active {
+	text-decoration: none;
+	color: fff;
+}

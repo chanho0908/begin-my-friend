@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+	#map{
+		border-radius: 20px;
+	}
+	.info-title {
+    display: block;
+    background: #50627F;
+    color: #fff;
+    text-align: center;
+    width:160px;
+    height: 24px;
+    line-height:22px;
+    border-radius:4px;
+    padding:0px 10px;
+}
+
+.info-title2 {
+    display: block;
+    background: #50627F;
+    color: #fff;
+    text-align: center;
+    width:220px;
+    height: 24px;
+    line-height:22px;
+    border-radius:4px;
+    padding:0px 10px;
+}

@@ -1,0 +1,247 @@
+@charset "UTF-8";
+
+body{ margin: 0; padding:0; width: 100% }
+
+p { margin: 0 }
+
+.hour_title{ margin-left: 20px; }
+
+.btn_container{
+	border-bottom: 4px solid #eeeeee;
+	width: 100%;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 10px 0 0 20px;
+}
+
+#map{ margin: 10px 0 0 20px; }
+#btn_act1{ margin-top: 15px; }
+#btn_act2{ 
+	margin-top: 10px;  
+    position: relative; 
+    display: inline-block;
+}
+#btn_act3{ margin-top: 15px; }
+#btn_act4{ margin-top: 10px; }
+
+  .tooltip{
+    position:absolute; 
+    left:50px; 
+    top:52px; 
+    background: #ffe2ed; 
+    padding: 10px; 
+    border-radius:5px; 
+    color: #ff3399; 
+    text-align: center; 
+    width:180px;
+	display: none; 
+  }
+  
+  .tooltip:after{
+    display: block; 
+    content: ''; 
+    position: absolute; 
+    top: -7px; 
+    left:15px; 
+    width: 0px; 
+    height: 0px; 
+    border-top: 8px solid none; 
+    border-left: 8psolid transparent; 
+    border-right: 8px solid transparent; 
+    border-bottom: 8px solid #ffe2ed;
+  } 
+  
+  #btn_act2:hover .tooltip{display: block;}
+
+.btn_container ul {width:50%; list-style:none; }
+
+.btn_container li { height:100%; width:25%; float:left;}
+
+.call_title{ margin: 0; color: black;}
+		
+.bookmark_title{ margin: 0; color: black;}
+
+.share_title{ margin: 2px 0 0 15px; color: black;}
+
+.join_title{ margin: 0 0 10px 7px; color: black;}
+
+.btn_act{ list-style-type: none; float: left; }
+
+.info-property{ font-size: 18px; margin: 20px 0 0 10px; }
+
+.inner-icon{ margin: 15px 0 0 15px; }
+
+.left_container {
+	float: left;
+	width: 650px;
+	margin: 30px 0 0 120px;
+}
+
+.image_container{
+	background: #ffffff;
+	border: 2px solid #eeeeee;
+	border-radius: 9px;
+	width:600px;
+	height: 420px;
+}
+
+
+.inner-title{
+	font-size: 15px;
+	font-weight: bold;
+	color: #000000;
+}
+
+.content_slider{
+	border : 1px solid none;
+	margin: 10px 0 0 15px;
+	width: 550px;
+	height: 320px;
+}
+
+.map_container{
+	background: #ffffff;
+	border: 2px solid #eeeeee;
+	border-radius: 9px;
+	margin: 40px 0 0 0;
+	width:600px;
+	height: 360px;
+}
+
+.right_container {
+	float:right;
+	width: 700px;
+	height: 1000px;
+	margin: 30px 20px 0 0;
+}
+
+.info_container{
+	background: #ffffff;
+	border: 2px solid #eeeeee;
+	border-radius: 9px;
+	width:600px;
+	height: 350px;
+	color: black;
+	font-size: 13px;
+}
+
+.time_container{
+	background: #ffffff;
+	border: 2px solid #eeeeee;
+	border-radius: 9px;
+	width:600px;
+	height: 278px;
+	margin: 20px 0 0 0;
+}
+
+table {
+	color: black;
+	margin: 0 0 0 20px;
+	font-size: 15px;
+	font-weight: bolder;
+	border-spacing: 8px;	
+}
+
+.feature_container{
+	background: #ffffff;
+	border: 2px solid #eeeeee;
+	border-radius: 9px;
+	width:600px;
+	height: 150px;
+	margin: 5px 0 0 0;
+	color:black;
+}
+.feature_property{
+	width:600px;
+	height: 100px;	
+}
+
+#btn_li{
+ list-style-type:none;
+ float:left;
+ margin-left: 20px;
+}
+
+
+.open_title{
+	color: green; 
+	font-weight: bold; 
+	font-size: 20px;
+}
+
+img{ margin-left: 10px; }
+
+.info_title{ margin: 0 0 0 0; }
+
+.hour{ margin: 0 0 0 10px; }
+
+
+.link-icon { position: relative; display: inline-block; width: auto; font-size: 14px; font-weight: 500; color: #333; margin-right: 10px; padding-top: 50px; }
+.link-icon.twitter { background-image: url(../images/share/icon-twitter.png); background-repeat: no-repeat; }
+.link-icon.facebook { background-image: url(../images/share/icon-facebook.png); background-repeat: no-repeat; } 
+.link-icon.kakao { background-image: url(../images/share/icon-kakao.png); background-repeat: no-repeat; }
+
+#Toggle{
+	width:470px;
+	height:140px;
+	background-color: #fff;
+	position: absolute;
+	top:100px;
+	left:500px;
+	border: 5px solid #cccccc;
+	border-radius: 10px;
+}
+
+
+.share_container{
+	position: absolute;
+	top:40px;
+	left:80px;
+	padding: 10px;
+}
+
+#hideBtn{
+	width: 50px;
+	height: 50px; 
+	font-size:30px;
+	font-weight: 800;
+	border: none;
+	background-color: transparent;
+	position: absolute;
+	right: 0;
+}
+
+#btnTwitter{
+	margin-left: 20px;
+	color:black;
+	width:60px;
+	height:20px;
+	font-weight: 800;
+	
+}
+
+#btnFacebook{
+	margin-left: 20px;
+	color:black;
+	width:60px;
+	height:16px;
+	font-weight: 800;
+}
+
+#btnKakao{
+	margin-left: 20px;
+	color:black;	
+	width:60px;
+	height:20px;
+	font-weight: 800;
+}
+
+.facebook_title{
+	position: absolute;
+	top:52px;
+	left:-10px;
+	width:70px;	
+	height:15px;
+}

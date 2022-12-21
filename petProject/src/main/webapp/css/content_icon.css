@@ -1,0 +1,28 @@
+@charset "UTF-8";
+@font-face { font-family: 'cookieRun-black'; src:url("../fonts/CookieRun-Black.woff") format('woff');}
+
+h4 {
+	font-family: "cookieRun-black";
+	font-size: 20px;
+	
+}
+
+.content{
+	margin-top: 20px;
+	margin-left: 230px;
+	display: flex;
+    justify-content: center;
+    width:70%;
+    align-items: center;
+    text-align: center;
+}
+
+.content_value_column_first{
+	margin-right: 150px;
+}
+
+.content_value_column_second{
+	margin-right: 160px;
+}
+
+
