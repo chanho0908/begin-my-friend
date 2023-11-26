@@ -52,7 +52,7 @@
 ### 10. [방문 예정 목록]  
 ![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/fa61f1ba-c336-49a0-bea9-1a235d508906)
 
-### 11. [위치 지도 제공]  
+### 11. [위치 지도 제공(KAKAO MAP API)]  
 ![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/4af1a5ae-4df9-4579-9d54-799a2bd99a18)
 
 
