@@ -40,10 +40,11 @@
 ![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/58af9c36-6711-477f-a4c7-e6c1b60f68ce)
 
 ### 7. [회원 정보 화면]    
-![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/6cf610f1-11ca-4852-addd-6c57b5648c49)
+![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/c4e92838-4651-4d51-bda0-311413263579)
+
 
 ### 8. [반려동물 정보 화면]  
-![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/1d1aca8f-e7d5-4946-ba99-0e39d2d0f9c6)
+![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/6cf610f1-11ca-4852-addd-6c57b5648c49)
 
 ### 9. [방문시설 정보 화면]  
 ![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/c8d9ec43-f2e4-4e64-a8f6-05061e554690)
@@ -54,8 +55,6 @@
 ### 11. [위치 지도 제공]  
 ![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/4af1a5ae-4df9-4579-9d54-799a2bd99a18)
 
-### 12. [시설 목록]  
-![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/e3cee03f-481b-4a70-8f1a-ac8bf4bb02ff)
 
 ### 13. [회원 가입 프로세스]
 |아이디 중복 검사|새 아이디 입력|
