@@ -39,11 +39,57 @@
 ![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/67087a68-06ca-44e7-9148-6d757e673cf4)
 ![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/58af9c36-6711-477f-a4c7-e6c1b60f68ce)
 
-7. [회원 정보 화면]    
+### 7. [회원 정보 화면]    
 ![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/6cf610f1-11ca-4852-addd-6c57b5648c49)
 
-8. [반려동물 정보 화면]  
+### 8. [반려동물 정보 화면]  
 ![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/1d1aca8f-e7d5-4946-ba99-0e39d2d0f9c6)
 
-9. [방문시설 정보 화면]  
-![Uploading image.png…]()
+### 9. [방문시설 정보 화면]  
+![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/c8d9ec43-f2e4-4e64-a8f6-05061e554690)
+
+### 10. [방문 예정 목록]  
+![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/fa61f1ba-c336-49a0-bea9-1a235d508906)
+
+### 11. [위치 지도 제공]  
+![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/4af1a5ae-4df9-4579-9d54-799a2bd99a18)
+
+### 12. [시설 목록]  
+![image](https://github.com/chanho0908/begin-my-friend/assets/84930748/e3cee03f-481b-4a70-8f1a-ac8bf4bb02ff)
+
+### 13. [회원 가입 프로세스]
+|아이디 중복 검사|새 아이디 입력|
+|---|---|
+|<img src="https://github.com/chanho0908/begin-my-friend/assets/84930748/f2d7902e-0315-4480-9ccb-70739f9723f2" />|<img src="https://github.com/chanho0908/begin-my-friend/assets/84930748/f5369e51-7f42-4b3e-b38b-2daf0bb37e0b" />|
+
+|아이디 사용 허용|비밀번호 유효성 검사|
+|---|---|
+|<img src="https://github.com/chanho0908/begin-my-friend/assets/84930748/7e7f6808-2b95-4b4c-a95b-b904da44a911" />|<img src="https://github.com/chanho0908/begin-my-friend/assets/84930748/a6c1cbb2-2afb-4f6e-a3e5-03c2e63bfb5c" />|
+
+|회원 정보 입력|회원가입 완료|
+|---|---|
+|<img src="https://github.com/chanho0908/begin-my-friend/assets/84930748/3821494e-d8f7-491c-ac7c-f0c3f3ae347d" />|<img src="https://github.com/chanho0908/begin-my-friend/assets/84930748/090dc3b2-4a9e-4af9-ad84-ce0794dc27d3" />|
+
+### 14. [로그인 프로세스]
+|아이디/PW 검사|비밀번호 유효성 검사|
+|---|---|
+|<img src="https://github.com/chanho0908/begin-my-friend/assets/84930748/91d0d116-e17f-4411-a03c-418dd4c15b41" />|<img src="https://github.com/chanho0908/begin-my-friend/assets/84930748/c184b44c-873e-4252-8fe3-ce7a709ad68a" />|
+
+### 15. [사용자 정보]
+
+|회원 정보|회원 정보 수정|
+|---|---|
+|<img src="https://github.com/chanho0908/begin-my-friend/assets/84930748/e510224e-994f-4f69-9fae-adf1d44de630" />|<img src="https://github.com/chanho0908/begin-my-friend/assets/84930748/ca7984ea-7741-420d-8a11-5b582c6ba27b" />|
+
+### 16. [방문 예정 등록]  
+
+|방문 예약|신청 내용 확인|
+|---|---|
+|<img src="https://github.com/chanho0908/begin-my-friend/assets/84930748/b6a657d0-5bb1-4b6b-9490-3e530e52f3da" />|<img src="https://github.com/chanho0908/begin-my-friend/assets/84930748/e2b93c78-b0fe-4acb-8d6a-53a2a0d4399f" />|
+
+|등록 완료|방문 예정 목록에 등록|
+|---|---|
+|<img src="https://github.com/chanho0908/begin-my-friend/assets/84930748/efa1a788-18b8-48b2-9501-bdc66721739b" />|<img src="https://github.com/chanho0908/begin-my-friend/assets/84930748/04b3726a-0f19-4631-af80-464c80506cb6" />|
+
+
+
